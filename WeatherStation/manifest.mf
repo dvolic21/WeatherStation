@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+X-COMMENT: WeatherStationRunner-Class will be added automatically by build
+

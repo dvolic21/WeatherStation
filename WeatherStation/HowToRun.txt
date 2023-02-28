@@ -1,0 +1,1 @@
+In order to run the program, it is needed to import the JAR file that can be found in lib folder.
